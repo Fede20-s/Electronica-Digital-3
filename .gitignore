@@ -1,0 +1,9 @@
+# Carpetas de compilación (en cualquier subcarpeta)
+build/
+Debug/
+*.o
+outDebug
+test
+*.exe
+*.hex
+*.axf
